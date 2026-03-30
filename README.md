@@ -71,5 +71,3 @@ I don't just write code. I build the systems that code runs on.
 [![Email](https://img.shields.io/badge/Email-michealadekunle569@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:michealadekunle569@gmail.com)
 
 ---
-
-*Open to senior remote roles in cybersecurity, infrastructure, blockchain, and full-stack engineering.*
