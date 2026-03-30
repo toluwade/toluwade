@@ -1,6 +1,6 @@
 # Hi, I'm Tolu Wade 👋
 
-### Head of Software & Cybersecurity Divisions | Infrastructure Architect | Blockchain & Web3 | Lagos, Nigeria
+### Head of Software & Cybersecurity | Infrastructure Architect | Blockchain & Web3 | Lagos, Nigeria
 
 ---
 
