@@ -1,12 +1,12 @@
-# Hi, I'm Tolu Wade 👋
+# Hi, I'm Tolu Wade 
 
 ### Head of Software & Cybersecurity | Infrastructure Architect | Blockchain & Web3 | Lagos, Nigeria
 
 ---
 
-## 🧠 About Me
+## About Me
 
-Self-taught engineer with 10+ years of experience across cybersecurity, full-stack development, blockchain architecture, and infrastructure engineering. Currently leading dual divisions at a fintech company in Mexico — managing six active products, government-level engagements, and a cross-functional team spanning frontend, backend, blockchain, and security.
+Self-taught engineer with 10+ years of experience across cybersecurity, full-stack development, blockchain architecture, and infrastructure engineering.
 
 In 2019, I was awarded a lectureship at **Covenant University** — one of Nigeria's most respected institutions — based purely on demonstrated expertise, teaching application development to 172+ students per semester.
 
@@ -16,29 +16,27 @@ I don't just write code. I build the systems that code runs on.
 
 ---
 
-## 🔧 What I Do
+## What I Do
 
 ```
-🛡️  Cybersecurity       →  Penetration Testing, Red/Blue Team Ops, Incident Response, NIST / SOC 2 / ISO 27001
-🏗️  Infrastructure      →  Self-hosted server fleets, CI/CD pipelines, YubiKey commit signing, 93% cost reduction vs cloud
-⛓️  Blockchain & Web3   →  Solidity, Smart Contracts, DApp Development, DEX Architecture, DeFi
-🖥️  Full-Stack          →  React, Next.js, Node.js, NestJS, Python, Go, Flutter, React Native
-☁️  DevOps              →  Hetzner, Coolify, Docker, Kubernetes, GitHub Actions, Infisical, Mailcow
+Cybersecurity       →  Penetration Testing, Red/Blue Team Ops, Incident Response, NIST / SOC 2 / ISO 27001
+Infrastructure      →  Self-hosted server fleets, CI/CD pipelines, YubiKey commit signing, 93% cost reduction vs cloud
+Blockchain & Web3   →  Solidity, Smart Contracts, DApp Development, DEX Architecture, DeFi
+Full-Stack          →  React, Next.js, Node.js, NestJS, Python, Go, Flutter, React Native
+DevOps              →  Hetzner, Coolify, Docker, Kubernetes, GitHub Actions, Infisical, Mailcow
 ```
 
 ---
 
-## 🏆 Key Achievements
+## Key Achievements
 
-- 🥇 **Lagos State Smart Meter Hackathon** — ₦10M prize winner against 200+ teams (2020)
-- 🥇 **NaijaHacks National Competition** — First Prize, IELECT Blockchain Voting System (2019)
-- 🎓 **Covenant University Lecturer** — Youngest appointed, 172+ students/semester, no formal degree
-- 🏛️ **Government-Grade Systems** — Architected blockchain certificate validation for a government ministry processing 4.5M records/month
-- 💰 **93% Infrastructure Cost Reduction** — Migrated 16+ apps from Render/Vercel to self-hosted Hetzner/Coolify stack
+-  **Lagos State Smart Meter Hackathon** — ₦10M prize winner against 200+ teams (2020)
+-  **NaijaHacks National Competition** — First Prize, IELECT Blockchain Voting System (2019)
+-  **Covenant University Lecturer** — Youngest appointed, 172+ students/semester, no formal degree
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -57,10 +55,10 @@ I don't just write code. I build the systems that code runs on.
 
 ## 📌 Certifications
 
-- 🔐 Certified Ethical Hacker (CEH) — EC-Council
-- 🌐 Network Security Specialist — ICSI
-- 📦 Product Manager Nanodegree — Udacity
-- 💻 Certified IT Professional — NIIT
+- Certified Ethical Hacker (CEH) — EC-Council
+- Network Security Specialist — ICSI
+- Product Manager Nanodegree — Udacity
+- Certified IT Professional — NIIT
 
 ---
 
